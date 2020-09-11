@@ -1,0 +1,14 @@
+{
+    "name": "Smash It",
+    "short_name": "Smash It",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#FFE1C4",
+    "background_color": "#FFE9D2",
+    "display": "standalone"
+}
